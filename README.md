@@ -29,7 +29,7 @@ I’m a Computer Science student exploring the intersection of **software develo
 ---
 
 ## 🌱 Current Goals
-- Master the fundamentals of **Java, Python, and C/C++** in the coming year.  
+- Master the fundamentals of **Java, Python, Javascript and C++** in the coming year.  
 - Apply functional programming concepts from **Haskell** into real-world problem solving.  
 - Collaborate on open-source or faculty-led projects.  
 
@@ -37,5 +37,5 @@ I’m a Computer Science student exploring the intersection of **software develo
 
 ## 📫 Connect with Me
 - 📧 Email: atariq@knox.edu 
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](#)  
+- 💼 LinkedIn: [linkedin.com/in/ahsan-09-tariq/](#)  
 - 🖥️ GitHub: [github.com/ahsan-500mbps](#)
