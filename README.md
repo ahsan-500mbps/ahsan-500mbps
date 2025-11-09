@@ -8,7 +8,8 @@ I’m a Computer Science student exploring the intersection of **software develo
 ## 🔧 Languages & Tools
 - ☕ **Java** – building strong foundations in object-oriented programming.  
 - λ **Haskell** – learning to think in recursion, purity, and functional elegance.  
-- 🐍 Python – scripting, experimenting, and automating.  
+- 🐍 **Python** – scripting, experimenting, and automating.  
+- Javascript and React.js
 
 ---
 
@@ -16,12 +17,14 @@ I’m a Computer Science student exploring the intersection of **software develo
 - Java projects from coursework and beyond.  
 - Exploring functional programming with Haskell to broaden my perspective.  
 - Small experiments with Python for quick ideas and automation.  
-- Building my problem-solving skills through coding challenges and competitions.  
+- Building my problem-solving skills through coding challenges and competitions.
+- Learning Javascript and React.js for Web-Development
 
 ---
 
 ## 📂 Featured Repositories 
 - [NeurIPS Code Golf](#) – concise problem-solving in Python.  Developing programs to solve a variety of tasks (all drawn from the ARC-AGI benchmark suite) using the fewest possible number of characters.
+- More to be added
 
 ---
 
