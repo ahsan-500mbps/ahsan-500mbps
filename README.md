@@ -8,7 +8,7 @@ I’m a Computer Science student exploring the intersection of **software develo
 ## 🔧 Languages & Tools
 - ☕ **Java** – building strong foundations in object-oriented programming.  
 - 🐍 **Python** – scripting, experimenting, and automating.  
-- ⚛️ 📝**Typescript and React.js**
+- ⚛️ 📝**Typescript and React.js** - building fast, scalable front-end interfaces with clean, type-safe components.
 
 ---
 
@@ -17,24 +17,27 @@ I’m a Computer Science student exploring the intersection of **software develo
 - Exploring functional programming with Haskell to broaden my perspective.  
 - Small experiments with Python for quick ideas and automation.  
 - Building my problem-solving skills through coding challenges and competitions.
-- Learning Javascript and React.js for Web-Development
+- Learning Javascript and React.js for Web-Development to work on Knox Makerspace server
+- Working on Making a Website to help Freshman with career and course navigation and guidance at Knox College
+  
 
 ---
 
 ## 📂 Featured Repositories 
 - [NeurIPS Code Golf](#) – concise problem-solving in Python.  Developing programs to solve a variety of tasks (all drawn from the ARC-AGI benchmark suite) using the fewest possible number of characters.
-- More to be added
+- [KG-RAG-Physio-Chatbot](#) - Design and Implementation of a Knowledge-Graph-Enhanced Retrieval-Augmented Chatbot System for Physical Therapy
 
 ---
 
 ## 🌱 Current Goals
-- Master the fundamentals of **Java, Python, Javascript and C++** in the coming year.  
-- Apply functional programming concepts from **Haskell** into real-world problem solving.  
-- Collaborate on open-source or faculty-led projects.  
 
----
+* Strengthen mastery of **Java, Python, TypeScript/React, and C++**, with a focus on writing cleaner, scalable code.
+* Build deeper fluency in **Haskell** and apply functional-programming patterns to real project architectures.
+* Develop and deploy real systems: the **Knox Makerspace server**, **Freshman guidance website**, and **KG-RAG Physio Chatbot**.
+* Contribute to open-source or faculty-led research projects to sharpen engineering and collaboration skills.
+
 
 ## 📫 Connect with Me
-- 📧 Email: atariq@knox.edu 
+- 📧 Email: atariq@knox.edu
 - 💼 LinkedIn: [linkedin.com/in/ahsan-09-tariq/](#)  
 - 🖥️ GitHub: [github.com/ahsan-500mbps](#)
