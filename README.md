@@ -39,9 +39,23 @@ I’m a Computer Science student exploring the intersection of **software develo
 
 ## 📫 Connect with Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:atariq@knox.edu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahsan-09-tariq/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ahsan-500mbps)
+<p align="left">
+  <a href="mailto:atariq@knox.edu">
+    <img src="assets/icons/gmail.png" alt="Gmail" width="28" />
+    &nbsp;atariq@knox.edu
+  </a>
+  <br />
 
+  <a href="https://linkedin.com/in/ahsan-09-tariq/">
+    <img src="assets/icons/linkedin.png" alt="LinkedIn" width="28" />
+    &nbsp;Ahsan Tariq
+  </a>
+  <br />
+
+  <a href="https://github.com/ahsan-500mbps">
+    <img src="assets/icons/github.png" alt="GitHub" width="28" />
+    &nbsp;ahsan-500mbps
+  </a>
+</p>
 
 
