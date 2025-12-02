@@ -19,7 +19,6 @@ I’m a Computer Science student exploring the intersection of **software develo
 - Building my problem-solving skills through coding challenges and competitions.
 - Learning Javascript and React.js for Web-Development to work on Knox Makerspace server
 - Working on Making a Website to help Freshman with career and course navigation and guidance at Knox College
-  
 
 ---
 
@@ -36,7 +35,11 @@ I’m a Computer Science student exploring the intersection of **software develo
 * Develop and deploy real systems: the **Knox Makerspace server**, **Freshman guidance website**, and **KG-RAG Physio Chatbot**.
 * Contribute to open-source or faculty-led research projects to sharpen engineering and collaboration skills.
 
+---
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atariq@knox.edu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahsan-09-tariq/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahsan-500mbps)
+## 📫 Connect with Me
+
+[![Email](https://img.shields.io/badge/Gmail-EB4432?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:atariq@knox.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/ahsan-09-tariq/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahsan-500mbps)
+
