@@ -42,26 +42,27 @@ I’m a Computer Science student exploring the intersection of **software develo
 <p align="left">
 
   <a href="mailto:atariq@knox.edu">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" 
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail.svg" 
          alt="Gmail" width="30" />
     &nbsp;atariq@knox.edu
   </a>
   <br>
 
   <a href="https://linkedin.com/in/ahsan-09-tariq/">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" 
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" 
          alt="LinkedIn" width="30" />
     &nbsp;Ahsan Tariq
   </a>
   <br>
 
   <a href="https://github.com/ahsan-500mbps">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" 
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" 
          alt="GitHub" width="30" />
     &nbsp;ahsan-500mbps
   </a>
 
 </p>
+
 
 
 
